@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">ExpandableListViewAnisSir</string>
+    
+    <string-array name="abbreviations_list_header">
+        
+        <item>approx. </item>
+        <item>appt. </item>
+        <item>apt.</item>
+        <item>A.S.A.P.</item>
+        <item>B.Y.O.B.</item>
+        <item>c/o</item>
+        <item>dept.</item>
+        <item>D.I.Y.</item>
+        <item>est.</item>
+        <item>E.T.A.</item>
+        <item>min.</item>
+        <item>misc.</item>
+        <item>Mr.</item>
+        <item>Mrs.</item>
+        <item>no.</item>
+        <item>R.S.V.P.</item>
+        <item>tel.</item>
+        <item>temp.</item>
+        <item>vet.</item>
+        <item>vs.</item>
+    </string-array>
+    
+    <string-array name="abbreviation_list_child">
+
+        <item>- approximately</item>
+        <item>- appointment</item>
+        <item>- apartment</item>
+        <item> - as soon as possible</item>
+        <item>- bring your own bottle, used for parties where guests are
+            expected to bring their own drinks or restaurants that don't sell alcohol.</item>
+        <item> - care of, used when sending mail to someone who's not at their usual address</item>
+        <item> - department</item>
+        <item> - Do it yourself</item>
+        <item> - established</item>
+        <item>- estimated time of arrival</item>
+        <item>- minute or minimum</item>
+        <item>- miscellaneous</item>
+        <item> - Mister</item>
+        <item> - Mistress (pronounced Missus)</item>
+        <item>- number</item>
+        <item> - Répondez, s'il vous plait, this initialism comes from the French for "please reply."
+            It's used on invitations to parties and events and is intended (as it says) to be responded
+            to with a "yes, we will attend," or "no, we will not."</item>
+        <item>- telephone</item>
+        <item>- temperature or temporary</item>
+        <item> - veteran or veterinarian</item>
+        <item> - versus</item>
+
+    </string-array>
+</resources>
